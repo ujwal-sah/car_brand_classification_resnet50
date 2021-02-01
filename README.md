@@ -1,10 +1,10 @@
-# car_brand_classification_resnet50
+# Car Brand Classification with ResNet50
  
-Detail of various dataset used for model development :
+### Detail of various dataset used for model development :
 
 Car Brand: https://github.com/krishnaik06/Deep-Learning-Car-Brand/blob/master/Datasets.zip
 
-Tools used for project development:
+### Tools used for project development:
 
 - Python
 - Flask
